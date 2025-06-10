@@ -17,21 +17,25 @@ A minimal, beautiful, and powerful tool for publishing books from Markdown files
 
 ### ⚡ Super Simple Way (Recommended)
 
-![How to Use](img/how_to_use.png)
+> 1. **Fork this repository** to your GitHub account
 
-1. **Fork this repository** to your GitHub account
-2. **Enable GitHub Pages** in repository settings:
-   - Go to Settings → Pages
-   - Select "GitHub Actions" as source
-3. **Add your markdown files** to the `contents` folder:
-   ```
-   contents/
-   ├── chapter1.md     # Your first chapter
-   ├── chapter2.md     # Your second chapter
-   ├── chapter3.md     # Your third chapter
-   └── ...
-   ```
-4. **Commit and push** - Your book will be automatically published!
+> 2. **Enable GitHub Pages** in repository settings:
+
+- Go to Settings → Pages
+- Select "GitHub Actions" as source
+  ![How to Use](img/how_to_use.png)
+
+> 3.  **Add your markdown files** to the `contents` folder:
+
+```
+contents/
+├── chapter1.md     # Your first chapter
+├── chapter2.md     # Your second chapter
+├── chapter3.md     # Your third chapter
+└── ...
+```
+
+> 4.  **Commit and push** - Your book will be automatically published!
 
 **That's it!** No configuration files needed. The system will:
 
