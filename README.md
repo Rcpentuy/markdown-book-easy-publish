@@ -35,6 +35,8 @@ contents/
 └── ...
 ```
 
+![How to edit files](img/how_to_edit_files.png)
+
 > 4.  **Commit and push** - Your book will be automatically published!
 
 **That's it!** No configuration files needed. The system will:
